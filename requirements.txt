@@ -3,7 +3,6 @@ aiofiles==23.2.1
 aiohttp==3.9.1
 APScheduler==3.10.4
 alphabet-detector==0.0.7
-asyncio==3.4.3
 
 # ==== B ====
 beautifulsoup4==4.12.2
@@ -43,9 +42,10 @@ motor==3.3.2
 
 # ==== N ====
 nekos.py==1.1.0
+numpy==1.26.4
 
 # ==== O ====
-opencv-python-headless==4.10.084
+opencv-python-headless==4.10.0.84
 
 # ==== P ====
 Pillow==9.5.0
