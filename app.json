@@ -17,12 +17,12 @@
       "API_ID": {
          "description": "Obtain this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "39679517"
       },
       "API_HASH": {
          "description": "Obtain this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "aed61e5ff8c711895f8b0c99e51c16cc"
       },
       "DEL_CMDS": {
          "description": "Set this to True to delete command messages from users without the necessary permissions.",
@@ -36,17 +36,17 @@
       "EVENT_LOGS": {
          "description": "Channel for event logs to note down important bot-level events. Recommend making this public. Example: '-123456'",
          "required": true,
-         "value": ""
+         "value": "-1003700186680"
       },
       "MESSAGE_DUMP": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1003272813374"
       },
       "MONGO_DB_URI": {
          "description": "Required for MongoDB database connections.",
          "required": true,
-         "value": "mongodb+srv://"
+         "value": ""
       },
       "DATABASE_URL": {
          "description": "Required for SQL database connections.",
@@ -56,17 +56,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5907205317"
+         "value": "7651303468"
       },
       "DEV_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5907205317"
+         "value": "8330239955"
       },
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5907205317"
+         "value": "8330239955"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -75,32 +75,32 @@
       "DEMONS": {
          "description": "A space separated list of user IDs who can use Gban From Your Bot",
          "required": false,
-         "value": "5907205317"
+         "value": "8330239955"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who can not be banned by your Bot",
          "required": false,
-         "value": "5907205317"
+         "value": "8330239955"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "5907205317"
+         "value": "8330239955"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username. Users will reach out for assistance. Example: MyGroupChatUsernameBlah. Avoid pointing to Miko Support to prevent conflicts.",
          "required": true,
-         "value": ""
+         "value": "snowy_hometown"
       },
       "SUPPORT_ID": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1003633844538"
       },
       "DB_NAME": {
          "description": "Your MongoDB name.",
          "required": true,
-         "value": "MikoDB"
+         "value": "MIKODB"
       },
       "TOKEN": {
          "description": "Bot token obtained from @BotFather on Telegram.",
